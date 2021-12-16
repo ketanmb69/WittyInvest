@@ -1,11 +1,16 @@
 #WittyInvest
 
+
+
 A virtual stock market application. Made using python and its framework Django with Ajax for dynamic webpages and live price changing of stocks provided.
 
 To run the application,
 The system should have Python-3.7 installed.
 
 This is a private repository,
+
+The private repository link: https://github.com/ketanmb69/WittyInvest
+
 
 unzip the repository and perform below steps to get this application working.
 
